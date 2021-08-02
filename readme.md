@@ -1,7 +1,6 @@
 # Awesome Personal Blogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A delightful list of personal tech blogs
-国外大佬独立博客列表-----List of independent blogs of foreign bigwigs
+> A delightful list of personal tech blogs国外大佬独立博客列表-----List of independent blogs of foreign bigwigs
 
 
 ## Personal Blogs
